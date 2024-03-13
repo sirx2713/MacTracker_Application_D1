@@ -11,6 +11,8 @@
 		2EEBC29E2B9509E20069833D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEBC29D2B9509E20069833D /* ContentView.swift */; };
 		2EEBC2A02B9509E50069833D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EEBC29F2B9509E50069833D /* Assets.xcassets */; };
 		2EEBC2A32B9509E50069833D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EEBC2A22B9509E50069833D /* Preview Assets.xcassets */; };
+		2EEBC2AA2B950A230069833D /* General.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEBC2A92B950A230069833D /* General.swift */; };
+		2EEBC2AC2B9514AF0069833D /* iBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEBC2AB2B9514AF0069833D /* iBookView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2EEBC29D2B9509E20069833D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EEBC29F2B9509E50069833D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EEBC2A22B9509E50069833D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EEBC2A92B950A230069833D /* General.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = General.swift; sourceTree = "<group>"; };
+		2EEBC2AB2B9514AF0069833D /* iBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iBookView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				2EEBC29B2B9509E20069833D /* MacTracker_Application_D1App.swift */,
 				2EEBC29D2B9509E20069833D /* ContentView.swift */,
+				2EEBC2AB2B9514AF0069833D /* iBookView.swift */,
+				2EEBC2A92B950A230069833D /* General.swift */,
 				2EEBC29F2B9509E50069833D /* Assets.xcassets */,
 				2EEBC2A12B9509E50069833D /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EEBC2AA2B950A230069833D /* General.swift in Sources */,
+				2EEBC2AC2B9514AF0069833D /* iBookView.swift in Sources */,
 				2EEBC29E2B9509E20069833D /* ContentView.swift in Sources */,
 				2EEBC29C2B9509E20069833D /* MacTracker_Application_D1App.swift in Sources */,
 			);
